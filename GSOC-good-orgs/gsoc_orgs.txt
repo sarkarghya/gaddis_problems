@@ -1,0 +1,90 @@
+52°North GmbH
+AerospaceResearch.net
+Android Graphics Tools Team
+Apertium
+BRL-CAD
+Blender Foundation
+CCExtractor Development
+CERN-HSF
+Chapel
+CircuitVerse.org
+CloudCV
+Cuneiform Digital Library Initiative (CDLI)
+DBpedia
+Debian
+Django Software Foundation
+FFmpeg
+Free and Open Source Silicon Foundation
+FreeType
+GNSS-SDR
+GNU Octave
+GNU Radio
+Gentoo Foundation
+Git
+Global Alliance for Genomics and Health
+Godot Engine
+Haiku
+Hydra Ecosystem
+INCF
+Inkscape
+Internet Archive
+JBoss Community
+JdeRobot - Universidad Rey Juan Carlos
+KDE Community
+Kiwix
+LabLua
+Libre Space Foundation
+LibreHealth
+LibreOffice
+Liquid Galaxy project
+MIT App Inventor
+MariaDB Foundation
+MuseScore
+National Resource for Network Biology (NRNB)
+NumFOCUS
+OWASP Foundation
+Open Bioinformatics Foundation
+Open Chemistry
+Open Roberta
+OpenCV
+OpenMRS
+OpenStreetMap
+OpenWISP
+Oppia Foundation
+PEcAn Project
+Pitivi
+PostgreSQL
+Purr Data
+Python Software Foundation
+QEMU
+RTEMS Project
+ReactOS
+Red Hen Lab
+RoboComp
+Rocket.Chat
+Ruby
+SageMath
+Samba
+ScummVM
+Sugar Labs
+Swift
+SymPy
+SymbiFlow
+Synfig
+TensorFlow
+The Apache Software Foundation
+The Honeynet Project
+The Julia Language
+The Libreswan Project
+The Linux Foundation
+The NetBSD Foundation
+The Terasology Foundation
+The ns-3 Network Simulator Project
+VideoLAN
+Wikimedia Foundation
+XWiki
+Zulip
+apertus° Association
+mlpack
+strace
+syslog-ng

@@ -1,0 +1,202 @@
+52°North GmbH
+AboutCode
+Accord Project
+AerospaceResearch.net
+AFLplusplus
+Android Graphics Tools Team
+AnkiDroid
+AOSSIE
+Apertium
+apertus° Association
+ArduPilot
+Audacity
+BeagleBoard.org Foundation
+Bench-Routes
+Blender Foundation
+Boost C++ Libraries
+BRL-CAD
+caMicroscope
+Casbin
+CASTOR
+CCExtractor Development
+Center for Research in Open Source Software
+Ceph
+CERN-HSF
+CGAL Project
+CHAOSS Project
+Chapel
+Checkstyle
+Chromium
+Cilium
+CircuitVerse.org
+CiviCRM LLC
+CloudCV
+CNCF
+coala
+Continuous Delivery Foundation
+CRIU
+Cuneiform Digital Library Initiative (CDLI)
+Dart
+DBpedia
+Debian
+DeepPavlov
+Department of Biomedical Informatics (BMI), Emory University School of Medicine
+Digital Impact Alliance (DIAL) at UN Foundation
+Django Software Foundation
+Elm Tooling
+FFmpeg
+Fortran-lang
+FOSSology
+FrameNet Brasil (UFJF)
+Free and Open Source Silicon Foundation
+FreeBSD Project
+FreeType
+freifunk
+FRRouting
+Genome Assembly and Annotation
+Gentoo Foundation
+GeomScale
+GFOSS - Open Technology Alliance
+Git
+GitLab
+Global Alliance for Genomics and Health
+GNOME Foundation
+GNSS-SDR
+GNU Compiler Collection (GCC)
+GNU Mailman
+GNU Octave
+GNU Radio
+Godot Engine
+Google FHIR SDK
+gprMax
+GRR Rapid Response
+gVisor
+Haiku
+Halide
+Haskell.org
+Hydra Ecosystem
+INCF
+Inkscape
+Integrated Ocean Observing System (IOOS)
+Intel Video and Audio for Linux
+International Catrobat Association
+Internet Archive
+JabRef
+Java PathFinder
+JBoss Community
+JdeRobot - Universidad Rey Juan Carlos
+Joomla!
+Joplin
+KDE Community
+Kiwix
+Kodi
+LabLua
+Learning Equality
+libcamera
+Libre Space Foundation
+LibreCube Initiative
+LibreHealth
+LibreOffice
+libvirt
+Liquid Galaxy project
+Machine Learning for Science (ML4SCI) Umbrella Organization
+MapAction
+MariaDB Foundation
+Matrix.org
+Mayor's Office of New Urban Mechanics (City of Boston)
+MBDyn
+MDAnalysis
+Media Cloud
+MediaPipe
+MetaBrainz Foundation Inc
+MetaCall
+Metasploit
+MGGG Redistricting Lab
+MIT App Inventor
+mlpack
+MoveIt
+MuseScore
+mypy
+National Resource for Network Biology (NRNB)
+Navidrome
+NumFOCUS
+Open Bioinformatics Foundation
+Open Chemistry
+Open Genome Informatics
+Open Roberta
+Open Robotics
+OpenAstronomy
+OpenCV
+OpenMined
+OpenMRS
+OpenStreetMap
+openSUSE Project
+OpenWISP
+Oppia Foundation
+Orcasound
+OSGeo - Open Source Geospatial Foundation
+OWASP Foundation
+PEcAn Project
+Pharo Consortium
+Pidgin Instant Messenger
+Pitivi
+Plan 9 Foundation
+Point Cloud Library
+Polypheny
+PostgreSQL
+Postman
+Processing Foundation
+Project WikiLoop
+Public Lab
+Purr Data
+Python Software Foundation
+QEMU
+Qubes OS
+React Native Elements
+ReactOS
+Red Hen Lab
+Rizin
+RoboComp
+Rocket.Chat
+RTEMS Project
+Ruby
+SageMath
+Samba
+Scala
+SCoRe Lab
+ScummVM
+Shaka Player
+Software Heritage
+SPDX
+STE||AR Group
+strace
+Sugar Labs
+Swift
+SymbiFlow
+SymPy
+Synfig
+syslog-ng
+Tarantool
+TARDIS SN
+TensorFlow
+The Apache Software Foundation
+The ENIGMA Team
+The Honeynet Project
+The Julia Language
+The Libreswan Project
+The Linux Foundation
+The LLVM Compiler Infrastructure
+The NetBSD Foundation
+The ns-3 Network Simulator Project
+The Palisadoes Foundation
+The R Project for Statistical Computing
+The Terasology Foundation
+TianoCore
+VideoLAN
+vitrivr
+Wikimedia Foundation
+Xfce
+Xiph.Org Foundation
+xrdesktop
+XWiki
+Zulip
